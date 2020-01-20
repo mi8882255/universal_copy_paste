@@ -7,7 +7,7 @@
 - HTTP (веб с историей)
 
 Протокол
-- udp with checksum/parts
+- http (in future:udp with checksum/parts)
 - cli-srv
 - only text
 - шифрование
